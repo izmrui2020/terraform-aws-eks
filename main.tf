@@ -1,5 +1,5 @@
 locals {
-  cluster_name    = "eks-example"
+  cluster_name    = "me-eks"
   cluster_version = "1.18"
 }
 
