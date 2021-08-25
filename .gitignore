@@ -1,0 +1,11 @@
+#  Local .terraform directories
+**/.terraform/*
+.tfstate files
+*.tfstate
+*.tfstate.*
+.tfvars files
+
+terraform.tfvars
+
+1-base-infra/1-base-infra-prod.config
+2-platform/2-platform-prod.config
